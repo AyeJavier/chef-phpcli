@@ -1,1 +1,1 @@
-cookbook_path [ '/vagrant/chef-repo-phpunit-dev/cookbook' ]
+cookbook_path [ '/vagrant/chef-repo-phpunit-dev/cookbooks' ]
